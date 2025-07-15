@@ -15,7 +15,7 @@
 const expertise = {
   blockchain: ["Solana", "Ethereum", "Substrate"],
   infrastructure: ["Kubernetes", "GCP", "AWS", "Terraform"],
-  languages: ["TypeScript", "Python", "Rust", "Go"],
+  languages: ["TypeScript", "Python"],
   leadership: ["Team Management", "Technical Strategy", "DevOps Culture"],
   experience: ["Zero-downtime operations", "Protocol launches", "Team scaling"]
 };
