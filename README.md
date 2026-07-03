@@ -1,8 +1,18 @@
 # 👋 Misha Kolesnik (@tenequm)
 
-## 🛠️ Senior infrastructure engineer. Production Claude infrastructure, Solana mainnet programs, 9 years SRE.
+**Building [pond](https://github.com/tenequm/pond)** - lossless storage and search for AI agent sessions, across every agentic client.
 
-9 years infrastructure / SRE. 4 years building production blockchain systems. Now applied to Claude-powered agents and integrations.
+> "I know we discussed that before. Why can't I find that damn conversation?"
+
+Every session from Claude Code, Codex, Opencode, Pi, and Claude Cowork - archived losslessly, searchable by your agent via MCP, restorable across clients. Rust, built on Lance. Local-first, your data stays yours.
+
+```
+brew install tenequm/tap/pond
+pond init
+pond sync
+```
+
+Docs: [pond.locker](https://pond.locker)
 
 ### 🏗️ Technical Expertise
 - **Infrastructure:** 9 years DevOps / SRE (AWS, GCP, Kubernetes, Terraform)
@@ -12,21 +22,19 @@
 - **Product:** Shipped multiple MVPs from concept to production
 
 ### 🔧 Technical Stack
-- **Languages:** TypeScript, Python, Rust
-- **Infrastructure:** Kubernetes, AWS, GCP, Terraform
+- **Languages:** Rust, TypeScript, Python
 - **Claude:** Claude API, Bedrock, Agent SDK, MCP, RAG / pgvector, evals + observability
 - **Blockchain:** Solana (Anchor), Ethereum (Solidity), Substrate
 
 ### 📊 Current Focus
+- **[pond](https://github.com/tenequm/pond)** - see above; approaching v1
 - **Production Claude implementations** (audits, sprints, retainers): [kolesnik.io](https://kolesnik.io)
-- **x3000** ([x3k.io](https://x3k.io)): production Claude-4 classification pipeline for Twitter content filtering
-- **Open source:** [claude-kb](https://github.com/tenequm/claude-kb), MCP server over Claude Code conversation history
+- **[glim.sh](https://glim.sh)** - live-data research tools for AI agents (web, Twitter/X, Reddit, GitHub, YouTube) over MCP with pay-per-call x402 pricing
 
 ### 📈 Recent Achievements
 - 🛠️ Three Solana mainnet programs deployed: payment splitting, deadline validator, agent identity (Token-2022 / SAS / ERC-8004 compatible)
 - 🥈 Hackathons: MetaDAO ICO 2.0 (2nd / 123), Light Protocol ZK Compression (3rd / 150), Colosseum Breakout (top 200 / 1,400+)
 
 ### 📧 Contact
-Based in Cascais, Portugal 🇵🇹 • Open to technical discussions and consulting engagements via [kolesnik.io](https://kolesnik.io)  
-**Email:** misha@kolesnik.io  
-**LinkedIn:** [linkedin.com/in/tenequm](https://www.linkedin.com/in/tenequm)
+Based in Cascais, Portugal 🇵🇹 • Open to technical discussions and consulting engagements via [kolesnik.io](https://kolesnik.io)
+**Email:** misha@kolesnik.io • **LinkedIn:** [linkedin.com/in/tenequm](https://www.linkedin.com/in/tenequm)
